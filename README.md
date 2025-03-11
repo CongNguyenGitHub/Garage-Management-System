@@ -1,139 +1,139 @@
 # QuanLyGarage - Garage Management System
 
 ## 📌 Project Overview
-**QuanLyGarage** là một phần mềm quản lý gara ô tô, được phát triển bởi **Nhóm 20 (SE104.N23)** trong khuôn khổ môn **Nhập môn Công nghệ Phần mềm**. Hệ thống giúp tự động hóa các quy trình quản lý gara, bao gồm:
+**QuanLyGarage** is a garage management software developed by **Team 20 (SE104.N23)** as part of the **Introduction to Software Engineering** course. The system automates garage management processes, including:
 
-- **Tiếp nhận và theo dõi xe**
-- **Tạo phiếu sửa chữa và hóa đơn thanh toán**
-- **Quản lý kho phụ tùng**
-- **Thống kê báo cáo hoạt động của gara**
+- **Vehicle reception and tracking**
+- **Creating repair orders and invoices**
+- **Managing spare parts inventory**
+- **Generating activity reports for the garage**
 
-Hệ thống hướng đến **sự minh bạch, chính xác và tối ưu hóa công việc** cho nhân viên gara.
+The system aims to enhance **transparency, accuracy, and workflow efficiency** for garage staff.
 
-📅 **Phiên bản**: 1.0 (Approved)  
-📆 **Ngày cập nhật gần nhất**: 25/06/2023 
-👨‍💻 **Phát triển bởi**: Nhóm 20 - SE104.N23  
-📩 **Liên hệ**: 21521200@gm.uit.edu.vn 
+📅 **Version**: 1.0 (Approved)  
+📆 **Last Updated**: 25/06/2023  
+👨‍💻 **Developed by**: Team 20 - SE104.N23  
+📩 **Contact**: 21521200@gm.uit.edu.vn  
 
 ---
 
 ## ❓ Problem Statement
-Hệ thống QuanLyGarage giúp giải quyết các vấn đề phổ biến trong gara ô tô:
+The QuanLyGarage system addresses common issues in automotive garages:
 
-✅ **Giảm thiểu sai sót** trong việc nhập liệu và quản lý thông tin sửa chữa.
-✅ **Tăng hiệu quả làm việc** thông qua quy trình tự động hóa. 
-✅ **Hỗ trợ ra quyết định** với báo cáo chi tiết về doanh thu, tồn kho.
-✅ **Đảm bảo bảo mật dữ liệu**, hạn chế truy cập trái phép.
+✅ **Reduces errors** in data entry and repair management.  
+✅ **Increases work efficiency** through automated processes.  
+✅ **Supports decision-making** with detailed revenue and inventory reports.  
+✅ **Ensures data security**, preventing unauthorized access.  
 
 ---
 
 ## 🚀 Development Methodology
-**Mô hình phát triển**: **Waterfall Model** với các giai đoạn chính:
+**Development Model**: **Waterfall Model** with the following main phases:
 
-1️⃣ **Phân tích yêu cầu**: Họp với stakeholders qua Google Meet (e.g., 29/03/2023) để thu thập và tài liệu hóa yêu cầu (SRS, Business Rules, Use Case).
-2️⃣ **Thiết kế**: Xây dựng kiến trúc hệ thống (3-tier), thiết kế database, UI/UX, sử dụng Class Diagrams, Sequence Diagrams, ER Diagrams.
-3️⃣ **Phát triển**: Hiện thực hóa hệ thống dựa trên thiết kế.
-4️⃣ **Kiểm thử**: Viết test case và chạy thử nghiệm.
-5️⃣ **Triển khai & Bảo trì**: Phát hành phiên bản 1.0, tiếp nhận phản hồi và cập nhật.
+1️⃣ **Requirement Analysis**: Stakeholder meetings via Google Meet (e.g., 29/03/2023) to gather and document requirements (SRS, Business Rules, Use Cases).  
+2️⃣ **Design**: System architecture (3-tier), database design, UI/UX, using Class Diagrams, Sequence Diagrams, and ER Diagrams.  
+3️⃣ **Development**: Implementing the system based on design specifications.  
+4️⃣ **Testing**: Writing test cases and conducting test executions.  
+5️⃣ **Deployment & Maintenance**: Releasing version 1.0, gathering feedback, and updating accordingly.  
 
 ---
 
 ## 🔑 Key Features
-- **Quản lý phương tiện**: Tiếp nhận, tìm kiếm (biển số, model), theo dõi tình trạng.
-- **Xử lý sửa chữa & thanh toán**: Tạo phiếu sửa chữa, hóa đơn, kiểm tra tồn kho.
-- **Quản lý kho**: Theo dõi phụ tùng, hạn chế nhập liệu sai.
-- **Báo cáo & Thống kê**: Xuất báo cáo doanh thu (chưa có trực quan hóa dữ liệu).
-- **Quản lý người dùng**: Phân quyền (Quản lý, Nhân viên).
+- **Vehicle Management**: Receive, search (license plate, model), and track vehicle status.
+- **Repair & Payment Processing**: Generate repair orders, invoices, and check inventory.
+- **Inventory Management**: Monitor spare parts, minimize input errors.
+- **Reporting & Statistics**: Generate revenue reports (no data visualization yet).
+- **User Management**: Role-based access control (Manager, Employee).
 
 ---
 
 ## 📂 Project Structure
-📂 **docs/**: Chứa tài liệu của dự án.
-  📂 **DiagramsAndModels/**: Mô hình và sơ đồ trực quan.
-  📂 **Test_case/**: Các trường hợp kiểm thử và tài liệu liên quan (VD: Vision and Scope, SRS, Business Rules).
-  - **Short Summary Report.docx**: Báo cáo tóm tắt.
+📂 **docs/**: Project documentation.  
+  📂 **DiagramsAndModels/**: Visual models and diagrams.  
+  📂 **Test_case/**: Test cases and related documents (e.g., Vision and Scope, SRS, Business Rules).  
+  - **Short Summary Report.docx**: Summary report.  
 
-📂 **src/**: Mã nguồn được tổ chức thành các module.
-  📂 **BUS/**: Tầng xử lý logic nghiệp vụ.
-  📂 **DAO/**: Tầng truy cập dữ liệu.
-  📂 **Database/**: Lược đồ và script cơ sở dữ liệu.
-  📂 **GUI/**: Thành phần giao diện người dùng.
-  - **QuanLyGarage.sln**: Tệp solution của dự án.
-- **README.md**: Tệp này.
+📂 **src/**: Source code organized into modules.  
+  📂 **BUS/**: Business logic layer.  
+  📂 **DAO/**: Data access layer.  
+  📂 **Database/**: Database schema and scripts.  
+  📂 **GUI/**: User interface components.  
+  - **QuanLyGarage.sln**: Project solution file.  
+- **README.md**: This file.  
 
 ---
 
 ## 🖥️ Getting Started
-### 🔧 Yêu cầu hệ thống
+### 🔧 System Requirements
 - **Windows 10/11**
 - **.NET Framework 4.7+**
 - **SQL Server 2019+**
 - **Visual Studio 2022**
 
-### ⚙️ Cài đặt
-1️⃣ Clone repository:
+### ⚙️ Installation
+1️⃣ Clone the repository:
    ```sh
    git clone <repository-url>
    cd QuanLyGarage
    ```
-2️⃣ Mở **QuanLyGarage.sln** trong Visual Studio.
-3️⃣ Thiết lập cơ sở dữ liệu:
-   - Mở file **src/Database/QuanLyGarage.sql** trong SQL Server Management Studio.
-   - Chạy script để tạo bảng và dữ liệu mẫu.
-4️⃣ Build và chạy ứng dụng.
-5️⃣ **Thông tin đăng nhập mặc định**:
-   - **Quản lý**: `admin / admin123`
-   - **Nhân viên**: `employee / emp123`
+2️⃣ Open **QuanLyGarage.sln** in Visual Studio.
+3️⃣ Set up the database:
+   - Open **src/Database/QuanLyGarage.sql** in SQL Server Management Studio.
+   - Run the script to create tables and sample data.
+4️⃣ Build and run the application.
+5️⃣ **Default login credentials**:
+   - **Manager**: `admin / admin123`
+   - **Employee**: `employee / emp123`
 
 ---
 
 ## 📊 Models & Diagrams
-Hệ thống sử dụng các mô hình sau:
-- **Phân tích yêu cầu**: Business Processes Model, Business Rules Model, Use Case Diagram.
-- **Thiết kế**: Class Diagram, Sequence Diagram, State Diagram, Activity Diagram, Entity Relationship Diagram.
+The system utilizes the following models:
+- **Requirement Analysis**: Business Processes Model, Business Rules Model, Use Case Diagram.
+- **Design**: Class Diagram, Sequence Diagram, State Diagram, Activity Diagram, Entity Relationship Diagram.
 
 ---
 
 ## 🤝 Customer Collaboration
-Chúng tôi thường xuyên làm việc với khách hàng qua các cuộc họp Google Meet, tiếp thu phản hồi và cải tiến sản phẩm.
+We regularly collaborate with customers through Google Meet meetings, incorporating feedback to improve the product.
 
 ---
 
 ## 🎯 Lessons Learned
-✅ Bám sát mô hình phát triển giúp quá trình triển khai suôn sẻ.  
-✅ Quản lý thời gian và teamwork là yếu tố quan trọng để hoàn thành đúng tiến độ.  
-✅ Phản hồi từ khách hàng giúp hoàn thiện sản phẩm.  
-✅ Kiên trì và trách nhiệm là chìa khóa để giải quyết các bài toán phức tạp.  
+✅ Following the development model ensures smooth implementation.  
+✅ Time management and teamwork are crucial for meeting deadlines.  
+✅ Customer feedback is essential for product enhancement.  
+✅ Persistence and responsibility are key to solving complex problems.  
 
 ---
 
 ## 🚀 Future Plans
-- **Hoàn thiện kiểm thử và sửa lỗi trước khi phát hành phiên bản chính thức**.
-- **Theo dõi hiệu suất, sửa lỗi và tối ưu hệ thống**.
-- **Nâng cấp tính năng theo phản hồi từ người dùng**.
+- **Complete testing and fix bugs before official release**.
+- **Monitor performance, fix issues, and optimize the system**.
+- **Upgrade features based on user feedback**.
 
 ---
 
 ## 👨‍💻 Contributors
-- **Nguyễn Công Nguyên** - 21521200@gm.uit.edu.vn
-- **Hồ Đức Trưởng** - 21522730@gm.uit.edu.vn
-- **Nguyễn Phương Tùng** - 21520524@gm.uit.edu.vn
-- **Lê Minh Nguyệt** - 21521211@gm.uit.edu.vn  
+- **Nguyen Cong Nguyen** - 21521200@gm.uit.edu.vn  
+- **Ho Duc Truong** - 21522730@gm.uit.edu.vn  
+- **Nguyen Phuong Tung** - 21520524@gm.uit.edu.vn  
+- **Le Minh Nguyet** - 21521211@gm.uit.edu.vn  
 
 ---
 
 ## 📜 License
-**QuanLyGarage** được cấp phép theo **MIT License**. Xem chi tiết tại [LICENSE](LICENSE).
+**QuanLyGarage** is licensed under the **MIT License**. See details at [LICENSE](LICENSE).
 
 ---
 
 ## ❤️ Contributions
-Chúng tôi hoan nghênh mọi đóng góp! Nếu bạn muốn tham gia phát triển, vui lòng gửi pull request hoặc mở issue trên GitHub.
+We welcome all contributions! If you wish to participate in development, please submit a pull request or open an issue on GitHub.
 
 ---
 
 ## 📢 Contact
-📩 Nếu bạn có bất kỳ câu hỏi hoặc phản hồi nào, vui lòng tạo một Issue trên GitHub của dự án.
+📩 If you have any questions or feedback, please create an issue on the project's GitHub repository.
 
-Cảm ơn bạn đã quan tâm đến **QuanLyGarage**! 🚗💨
+Thank you for your interest in **QuanLyGarage**! 🚗💨
 
