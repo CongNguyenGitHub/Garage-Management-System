@@ -1,120 +1,130 @@
-# QuanLyGarage - Garage Management System
+# 🚗 QuanLyGarage - Garage Management System  
 
-## 📌 Project Overview
-**QuanLyGarage** is a garage management software developed by **Team 20 (SE104.N23)** as part of the **Introduction to Software Engineering** course. The system automates garage management processes, including:
+## 📌 Project Overview  
+**QuanLyGarage** is a garage management software developed by **Team 20 (SE104.N23)** as part of the **Introduction to Software Engineering** course. The system automates garage management processes, including:  
 
-- **Vehicle reception and tracking**
-- **Creating repair orders and invoices**
-- **Managing spare parts inventory**
-- **Generating activity reports for the garage**
+- 📋 **Vehicle reception & tracking**  
+- 🛠 **Repair order & billing**  
+- 📦 **Spare parts inventory management**  
+- 📊 **Garage performance reporting**  
 
-The system aims to enhance **transparency, accuracy, and workflow efficiency** for garage staff.
+The goal of the system is to enhance **transparency, accuracy, and efficiency** for garage staff.  
 
 📅 **Version**: 1.0 (Approved)  
-📆 **Last Updated**: 25/06/2023  
+📆 **Last Updated**: 06/25/2023  
 👨‍💻 **Developed by**: Team 20 - SE104.N23  
 📩 **Contact**: 21521200@gm.uit.edu.vn  
 
 ---
 
-## ❓ Problem Statement
-The QuanLyGarage system addresses common issues in automotive garages:
+## ❓ Problem Statement  
+The **QuanLyGarage** system addresses common issues in garage operations:  
 
-✅ **Reduces errors** in data entry and repair management.  
-✅ **Increases work efficiency** through automated processes.  
+✅ **Minimizes errors** in data entry and repair management.  
+✅ **Boosts work efficiency** through process automation.  
 ✅ **Supports decision-making** with detailed revenue and inventory reports.  
 ✅ **Ensures data security**, preventing unauthorized access.  
 
 ---
 
-## 🚀 Development Methodology
-**Development Model**: **Waterfall Model** with the following main phases:
+## 🚀 Development Methodology  
+**Development Model**: **Waterfall Model** with the following phases:  
 
-1️⃣ **Requirement Analysis**: Stakeholder meetings via Google Meet (e.g., 29/03/2023) to gather and document requirements (SRS, Business Rules, Use Cases).  
-2️⃣ **Design**: System architecture (3-tier), database design, UI/UX, using Class Diagrams, Sequence Diagrams, and ER Diagrams.  
-3️⃣ **Development**: Implementing the system based on design specifications.  
-4️⃣ **Testing**: Writing test cases and conducting test executions.  
-5️⃣ **Deployment & Maintenance**: Releasing version 1.0, gathering feedback, and updating accordingly.  
-
----
-
-## 🔑 Key Features
-- **Vehicle Management**: Receive, search (license plate, model), and track vehicle status.
-- **Repair & Payment Processing**: Generate repair orders, invoices, and check inventory.
-- **Inventory Management**: Monitor spare parts, minimize input errors.
-- **Reporting & Statistics**: Generate revenue reports (no data visualization yet).
-- **User Management**: Role-based access control (Manager, Employee).
+1️⃣ **Requirement Analysis**: Gathering requirements via Google Meet, developing **SRS, Business Rules, and Use Cases**.  
+2️⃣ **System Design**: 3-tier architecture, database design, UI/UX (Class Diagram, Sequence Diagram, ER Diagram).  
+3️⃣ **Implementation**: Developing the system based on the design.  
+4️⃣ **Testing**: Writing test cases, software testing.  
+5️⃣ **Deployment & Maintenance**: Releasing version 1.0, collecting feedback, and updating.  
 
 ---
 
-## 📂 Project Structure
-📂 **docs/**: Project documentation.  
-  📂 **DiagramsAndModels/**: Visual models and diagrams.  
-  📂 **Test_case/**: Test cases and related documents (e.g., Vision and Scope, SRS, Business Rules).  
-  - **Short Summary Report.docx**: Summary report.  
+## 🔑 Key Features  
+### 🔹 Vehicle Management  
+- Register and search vehicles by license plate and model.  
+- Track vehicle status in the garage.  
 
-📂 **src/**: Source code organized into modules.  
-  📂 **BUS/**: Business logic layer.  
-  📂 **DAO/**: Data access layer.  
-  📂 **Database/**: Database schema and scripts.  
-  📂 **GUI/**: User interface components.  
-  - **QuanLyGarage.sln**: Project solution file.  
-- **README.md**: This file.  
+### 🔹 Repair & Billing  
+- Create repair orders and invoices.  
+- Check spare parts availability before creating an order.  
 
----
+### 🔹 Inventory Management  
+- Control spare parts stock levels, reduce entry errors.  
 
-## 🖥️ Getting Started
-### 🔧 System Requirements
-- **Windows 10/11**
-- **.NET Framework 4.7+**
-- **SQL Server 2019+**
-- **Visual Studio 2022**
+### 🔹 Reports & Statistics  
+- Generate monthly revenue reports.  
+- Detailed inventory reports *(No visual charts yet).*  
 
-### ⚙️ Installation
-1️⃣ Clone the repository:
-   ```sh
-   git clone <repository-url>
-   cd QuanLyGarage
-   ```
-2️⃣ Open **QuanLyGarage.sln** in Visual Studio.
-3️⃣ Set up the database:
-   - Open **src/Database/QuanLyGarage.sql** in SQL Server Management Studio.
-   - Run the script to create tables and sample data.
-4️⃣ Build and run the application.
-5️⃣ **Default login credentials**:
-   - **Manager**: `admin / admin123`
-   - **Employee**: `employee / emp123`
+### 🔹 User Management  
+- Role-based access control (Manager, Staff).  
 
 ---
 
-## 📊 Models & Diagrams
-The system utilizes the following models:
-- **Requirement Analysis**: Business Processes Model, Business Rules Model, Use Case Diagram.
-- **Design**: Class Diagram, Sequence Diagram, State Diagram, Activity Diagram, Entity Relationship Diagram.
+## 📂 Project Structure  
+
+📂 **docs/** (Project Documentation)  
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **Requirements/** (Requirements Documents)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 **Vision_and_Scope.docx** (Vision & Scope)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 **Business_Rules.docx** (Business Rules)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 **List_of_Requirements.xlsx** (Requirements List)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **Design/** (System Design)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 **Diagrams/** (Architecture, UML, ERD diagrams, etc.)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 **Software_Detail_Design.docx** (Detailed Software Design)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **Specifications/** (System Specifications)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 **Use_Case_Specification.docx** (Use Case Specification)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 **SRS_Document.docx** (Software Requirements Specification - SRS)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **Testing/** (System Testing)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 **Test_Cases/** (Test Case List)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 **Tasksheet.docx** (Testing Task Assignment)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **Reports/** (Project Reports)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 **Short_Summary_Report.docx** (Short Summary Report)  
+
+📂 **src/** (Project Source Code)  
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **BUS/** (Business Logic)  
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **DAO/** (Data Access)  
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **Database/** (Database structure & scripts)  
+&nbsp;&nbsp;&nbsp;&nbsp;📂 **GUI/** (Graphical User Interface)  
+&nbsp;&nbsp;&nbsp;&nbsp;📄 **QuanLyGarage.sln** (Visual Studio Solution File)  
+
+📄 **README.md** (Project Documentation)  
 
 ---
 
-## 🤝 Customer Collaboration
-We regularly collaborate with customers through Google Meet meetings, incorporating feedback to improve the product.
+## 🖥️ Getting Started  
+### 🔧 System Requirements  
+- **Windows 10/11**  
+- **.NET Framework 4.7+**  
+- **SQL Server 2019+**  
+- **Visual Studio 2022**  
+
+### ⚙️ Installation  
+1️⃣ Clone repository:  
+   ```sh  
+   git clone <repository-url>  
+   cd QuanLyGarage  
+   ```  
+2️⃣ Open **QuanLyGarage.sln** in Visual Studio.  
+3️⃣ Set up the database:  
+   - Open **src/Database/QuanLyGarage.sql** in SQL Server Management Studio.  
+   - Run the script to create tables and sample data.  
+4️⃣ Build & run the application.  
+5️⃣ **Default login credentials**:  
+   - **Manager**: `admin / admin123`  
+   - **Staff**: `employee / emp123`  
 
 ---
 
-## 🎯 Lessons Learned
-✅ Following the development model ensures smooth implementation.  
-✅ Time management and teamwork are crucial for meeting deadlines.  
-✅ Customer feedback is essential for product enhancement.  
-✅ Persistence and responsibility are key to solving complex problems.  
+## 🚀 Future Plans  
+- ✅ Complete testing & fix bugs before official release.  
+- ✅ Monitor performance, troubleshoot, and optimize the system.  
+- ✅ Enhance features based on user feedback.  
 
 ---
 
-## 🚀 Future Plans
-- **Complete testing and fix bugs before official release**.
-- **Monitor performance, fix issues, and optimize the system**.
-- **Upgrade features based on user feedback**.
-
----
-
-## 👨‍💻 Contributors
+## 👨‍💻 Contributors  
 - **Nguyen Cong Nguyen** - 21521200@gm.uit.edu.vn  
 - **Ho Duc Truong** - 21522730@gm.uit.edu.vn  
 - **Nguyen Phuong Tung** - 21520524@gm.uit.edu.vn  
@@ -122,18 +132,15 @@ We regularly collaborate with customers through Google Meet meetings, incorporat
 
 ---
 
-## 📜 License
-**QuanLyGarage** is licensed under the **MIT License**. See details at [LICENSE](LICENSE).
+## 📜 License  
+**QuanLyGarage** is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.  
 
 ---
 
-## ❤️ Contributions
-We welcome all contributions! If you wish to participate in development, please submit a pull request or open an issue on GitHub.
+## ❤️ Contributions  
+We welcome all contributions! If you would like to participate, please submit a **pull request** or open an **issue** on GitHub.  
 
----
-
-## 📢 Contact
-📩 If you have any questions or feedback, please create an issue on the project's GitHub repository.
+📩 **Contact**: If you have any questions or feedback, please open an issue on GitHub.  
 
 Thank you for your interest in **QuanLyGarage**! 🚗💨
 
