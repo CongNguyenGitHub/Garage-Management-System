@@ -1,0 +1,192 @@
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDangNhap.resources
+C:\Users\NguyenNguyen\Desktop\SE104\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormMain.resources
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDangNhap.resources
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormMain.resources
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\NguyenNguyen\Desktop\SE104 - Copy\QuanLyGarage\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDangNhap.resources
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormMain.resources
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\NguyenNguyen\Desktop\SE105\QuanLyGarage\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDangNhap.resources
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormMain.resources
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.exe
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.exe
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.pdb
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.exe.config
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.pdb
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.exe.config
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.exe
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.exe
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.pdb
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.exe.config
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.pdb
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.exe.config
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDangNhap.resources
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormMain.resources
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\NguyenNguyen\garatruong\QuanLyGarage\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\github\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.exe
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.exe
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.pdb
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.exe.config
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.pdb
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.exe.config
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDangNhap.resources
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormMain.resources
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\NguyenNguyen\test\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FromDiaglog.resources
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.exe
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.exe
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.pdb
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\BUS.exe.config
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.pdb
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\bin\Debug\net6.0-windows\DAO.exe.config
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDangNhap.resources
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormMain.resources
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDialog2.resources
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDialog1.resources
+C:\Users\NguyenNguyen\SE104\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDialog3.resources
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDialog1.resources
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDialog2.resources
+C:\github\QuanLyGarage\QuanLyGarage\GUI\obj\Debug\net6.0-windows\GUI.FormDialog3.resources
