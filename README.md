@@ -10,29 +10,31 @@
 
 Hệ thống hướng đến **sự minh bạch, chính xác và tối ưu hóa công việc** cho nhân viên gara.
 
-📅 **Phiên bản**: Beta (Chưa phát hành chính thức)  
-📆 **Ngày cập nhật gần nhất**: 11/03/2025  
+📅 **Phiên bản**: 1.0 (Approved)  
+📆 **Ngày cập nhật gần nhất**: 25/06/2023 
 👨‍💻 **Phát triển bởi**: Nhóm 20 - SE104.N23  
-📩 **Liên hệ**: [Cập nhật nếu cần]  
+📩 **Liên hệ**: 21521200@gm.uit.edu.vn 
 
 ---
 
 ## ❓ Problem Statement
 Hệ thống QuanLyGarage giúp giải quyết các vấn đề phổ biến trong gara ô tô:
-✅ **Giảm thiểu sai sót** trong việc nhập liệu và quản lý thông tin sửa chữa.  
-✅ **Tăng hiệu quả làm việc** thông qua quy trình tự động hóa.  
-✅ **Hỗ trợ ra quyết định** với báo cáo chi tiết về doanh thu, tồn kho.  
-✅ **Đảm bảo bảo mật dữ liệu**, hạn chế truy cập trái phép.  
+
+✅ **Giảm thiểu sai sót** trong việc nhập liệu và quản lý thông tin sửa chữa.
+✅ **Tăng hiệu quả làm việc** thông qua quy trình tự động hóa. 
+✅ **Hỗ trợ ra quyết định** với báo cáo chi tiết về doanh thu, tồn kho.
+✅ **Đảm bảo bảo mật dữ liệu**, hạn chế truy cập trái phép.
 
 ---
 
 ## 🚀 Development Methodology
 **Mô hình phát triển**: **Waterfall Model** với các giai đoạn chính:
+
 1️⃣ **Phân tích yêu cầu**: Họp với stakeholders qua Google Meet (e.g., 29/03/2023) để thu thập và tài liệu hóa yêu cầu (SRS, Business Rules, Use Case).
 2️⃣ **Thiết kế**: Xây dựng kiến trúc hệ thống (3-tier), thiết kế database, UI/UX, sử dụng Class Diagrams, Sequence Diagrams, ER Diagrams.
 3️⃣ **Phát triển**: Hiện thực hóa hệ thống dựa trên thiết kế.
 4️⃣ **Kiểm thử**: Viết test case và chạy thử nghiệm.
-5️⃣ **Triển khai & Bảo trì**: Hiện hệ thống đang trong giai đoạn thử nghiệm nội bộ.
+5️⃣ **Triển khai & Bảo trì**: Phát hành phiên bản 1.0, tiếp nhận phản hồi và cập nhật.
 
 ---
 
@@ -113,9 +115,10 @@ Chúng tôi thường xuyên làm việc với khách hàng qua các cuộc họ
 ---
 
 ## 👨‍💻 Contributors
-- **Nguyễn Văn A** - [GitHub](https://github.com/nguyenvana)  
-- **Trần Thị B** - [GitHub](https://github.com/tranb)  
-- **Lê Văn C** - [GitHub](https://github.com/levanc)  
+- **Nguyễn Công Nguyên** - 21521200@gm.uit.edu.vn
+- **Hồ Đức Trưởng** - 21522730@gm.uit.edu.vn
+- **Nguyễn Phương Tùng** - 21520524@gm.uit.edu.vn
+- **Lê Minh Nguyệt** - 21521211@gm.uit.edu.vn  
 
 ---
 
@@ -130,7 +133,7 @@ Chúng tôi hoan nghênh mọi đóng góp! Nếu bạn muốn tham gia phát tr
 ---
 
 ## 📢 Contact
-📩 Nếu bạn có bất kỳ câu hỏi hoặc phản hồi nào, hãy liên hệ với chúng tôi qua email: [Insert Contact Here]
+📩 Nếu bạn có bất kỳ câu hỏi hoặc phản hồi nào, vui lòng tạo một Issue trên GitHub của dự án.
 
 Cảm ơn bạn đã quan tâm đến **QuanLyGarage**! 🚗💨
 
